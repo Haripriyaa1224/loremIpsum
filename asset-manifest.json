@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/loremipsum/static/css/main.f50624e1.css",
+    "main.js": "/loremipsum/static/js/main.058e463d.js",
+    "static/js/453.30238cfb.chunk.js": "/loremipsum/static/js/453.30238cfb.chunk.js",
+    "static/media/logo.svg": "/loremipsum/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loremipsum/index.html",
+    "main.f50624e1.css.map": "/loremipsum/static/css/main.f50624e1.css.map",
+    "main.058e463d.js.map": "/loremipsum/static/js/main.058e463d.js.map",
+    "453.30238cfb.chunk.js.map": "/loremipsum/static/js/453.30238cfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50624e1.css",
+    "static/js/main.058e463d.js"
+  ]
+}
