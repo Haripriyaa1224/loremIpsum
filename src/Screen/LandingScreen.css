@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    gap:10px;
+    align-items: center;
+    justify-content: center;
+}
+
+article{
+    width:80%;
+    margin:0 auto;
+}
+
+
+@media screen and (max-width:350px) {
+    .main{
+        display:flex;
+        flex-direction: column;
+    }
+}
